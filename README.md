@@ -1,6 +1,6 @@
 # StudyTogether.ai – Project Description
 
-StudyTogether.ai is a desktop web platform designed for collaborative, in-person study sessions among university students. The application structures the group learning process through organized phases, distributed roles, and an integrated AI tutor with critical validation of responses.
+StudyTogether.ai is a figma prototype of desktop web platform designed for collaborative, in-person study sessions among university students. The application structures the group learning process through organized phases, distributed roles, and an integrated AI tutor with critical validation of responses.
 
 ---
 
